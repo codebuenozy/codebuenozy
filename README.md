@@ -3,7 +3,7 @@
 🤓 Futuro Dev em Desenvolvimento 🤓
 
 - 🔭 Atualmente eu trabalho como técnico de enfermagem
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas na UNICSUL e HTML, CSS, JS e REACTJS em Zero Ao Um
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas na UNICSUL e Html, Css, Js e React.Js em Zero Ao Um
 - 📫 Contate-me no email: nando_silverz@hotmail.com
 - 😄 Pronomes: Ele/dele
 
@@ -17,6 +17,7 @@
   <img align="center" alt="Bueno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bueno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bueno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bueno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
