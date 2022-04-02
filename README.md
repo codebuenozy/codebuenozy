@@ -3,7 +3,7 @@
 🤓 Futuro Dev em Desenvolvimento 🤓
 
 - 🔭 Atualmente eu trabalho como técnico de enfermagem
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas na UNICSUL e aprendendo HTML, CSS e JS na UDEMY
+- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas na UNICSUL e aprendendo HTML, CSS, JS e REACTJS em Zero Ao Um
 - 📫 Contate-me no email: nando_silverz@hotmail.com
 - 😄 Pronomes: Ele/dele
 
