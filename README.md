@@ -2,7 +2,7 @@
 
 🤓 Futuro Dev em Desenvolvimento 🤓
 
-- 😷 Atualmente eu trabalho como técnico de enfermagem
+- 😷 Atualmente eu trabalho como Técnico de Enfermagem
 - 🧐 Estudo Análise e Desenvolvimento de Sistemas na UNICSUL 
 - 👾 Html, Css, Js e React.Js na Zero Ao Um
 - 📫 Contate-me no email: nando_silverz@hotmail.com
@@ -28,7 +28,7 @@
   <a href="https://instagram.com/buenozy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/devbueno" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/tpV7wATD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:killerz.bueno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nando.buenozy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-bueno-8aa221178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/buenozy/buenozy/blob/output/github-contribution-grid-snake.svg)
