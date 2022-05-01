@@ -7,7 +7,6 @@
 - 👾 HTML5, CSS3, Javascript, ReactJS, Banco de Dados, e NodeJS
 - 🐱‍👤 Participando do Bootcamp Spread Fullstack Developer na Dio.
 - 📫 Contate-me no email: nando_silverz@hotmail.com
-- 😄 Pronomes: Ele/dele
 
 <div align="center">
   <a href="https://github.com/buenozy">
