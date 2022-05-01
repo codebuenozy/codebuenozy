@@ -4,7 +4,8 @@
 
 - 😷 Atualmente eu trabalho como Técnico de Enfermagem
 - 🧐 Estudo Análise e Desenvolvimento de Sistemas na UNICSUL 
-- 👾 Html, Css, Js e React.Js na Zero Ao Um
+- 👾 HTML5, CSS3, Javascript, ReactJS, Banco de Dados, e NodeJS
+- 🐱‍👤 Participando do Bootcamp Spread Fullstack Developer na Dio.
 - 📫 Contate-me no email: nando_silverz@hotmail.com
 - 😄 Pronomes: Ele/dele
 
