@@ -3,9 +3,8 @@
 🤓 Futuro Dev em Desenvolvimento 🤓
 
 - 😷 Atualmente eu trabalho como Técnico de Enfermagem
-- 🧐 Estudo Análise e Desenvolvimento de Sistemas na UNICSUL 
-- 👾 HTML5, CSS3, Javascript, ReactJS, Banco de Dados, e NodeJS
-- 🐱‍👤 Participando do Bootcamp Spread Fullstack Developer na Dio.
+- 🧐 Cursando Análise e Desenvolvimento de Sistemas na UNICSUL 
+- 👾 Estudando HTML5, CSS3, Javascript, ReactJS, NodeJS, Python e Banco de Dados.
 - 📫 Contate-me no email: nando_silverz@hotmail.com
 
 <div align="center">
