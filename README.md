@@ -4,7 +4,7 @@
 
 - 😷 Atualmente eu trabalho como Técnico de Enfermagem
 - 🧐 Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" taget="_blank">UNICSUL</a> 
-- 👾 Estudando HTML5, CSS3, Javascript, ReactJS, NodeJS, Python e Banco de Dados.
+- 🤯 Estudando HTML5, CSS3, Javascript, ReactJS, NodeJS, Python e Banco de Dados.
 - 🖊  Meu perfil no <a href="https://codepen.io/buenozy" taget="_blank">CodePen</a> 👈
 - 🦊 Meu perfil no <a href="https://gitlab.com/buenozy" taget="_blank">GitLab</a> 👈 
 - 📫 Contate-me no email: nando_silverz@hotmail.com
