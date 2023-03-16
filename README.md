@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Fernando Bueno, sejam bem vindos ao meu perfil.
 
 - 🤓 Dev em Desenvolvimento 🤓
+<img align="right" alt="bitmoji-codebuenozy" height="250" style="border-radius:50px;" src="https://sdk.bitmoji.com/render/panel/20084243-289276815_14-s5-v1.png?transparent=1&palette=1&scale=2">
 
----
+<br>
 
 - 😷 Atualmente eu trabalho como Técnico de Enfermagem
 - 🧐 Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">UNICSUL</a> 
@@ -32,7 +33,7 @@
   <img align="center" alt="Badge-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
  </div>
   
-  ---
+---
   
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCw-kifCLkQUem2WwKfP6xaw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -44,9 +45,15 @@
   <a href="https://www.linkedin.com/in/codebuenozy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:nando.buenozy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://api.whatsapp.com/send?phone=5511970967963" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
-  ---
+
+---
   
   ![Snake animation](https://github.com/codebuenozy/codebuenozy/blob/output/github-contribution-grid-snake.svg)
   
- </div>
+---  
+  
+</div>
+  
+
+  
+  
