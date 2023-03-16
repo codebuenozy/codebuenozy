@@ -8,6 +8,7 @@
 - 🖊  Meu perfil no <a href="https://codepen.io/codebuenozy" taget="_blank">CodePen</a> 👈
 - 🦊 Meu perfil no <a href="https://gitlab.com/codebuenozy" taget="_blank">GitLab</a> 👈 
 - 📫 Contate-me no email: nando_silverz@hotmail.com
+- 💻 Inscrição para cursos gratuitos na área Tech <a href="https://dio.me/sign-up?ref=ZLPADVQB4Q" taget="_blank">Clique aqui</a> 👈 
 
 <div align="center">
   <a href="https://github.com/codebuenozy">
