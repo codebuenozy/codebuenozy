@@ -32,7 +32,9 @@
   
 ---
   
-<div> 
+<div>
+  <img align="right" alt="codebuenozy-bitmoji" height="150" style="border-radius:50px;" src="https://sdk.bitmoji.com/render/panel/20084243-289276815_14-s5-v1.png?transparent=1&palette=1&scale=2">
+  <br>
   <a href="https://www.youtube.com/channel/UCw-kifCLkQUem2WwKfP6xaw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/codebuenozy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/yGHJ8grD5R" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
