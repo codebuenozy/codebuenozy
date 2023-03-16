@@ -3,12 +3,12 @@
 🤓 Futuro Dev em Desenvolvimento 🤓
 
 - 😷 Atualmente eu trabalho como Técnico de Enfermagem
-- 🧐 Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" taget="_blank">UNICSUL</a> 
+- 🧐 Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">UNICSUL</a> 
 - 🤯 Estudando HTML5, CSS3, Javascript, NodeJS, ReactJS, e MySQL.
-- 🖊  Meu perfil no <a href="https://codepen.io/codebuenozy" taget="_blank">CodePen</a> 👈
-- 🦊 Meu perfil no <a href="https://gitlab.com/codebuenozy" taget="_blank">GitLab</a> 👈 
+- 🖊  Meu perfil no <a href="https://codepen.io/codebuenozy" target="_blank">CodePen</a> 👈
+- 🦊 Meu perfil no <a href="https://gitlab.com/codebuenozy" target="_blank">GitLab</a> 👈 
 - 📫 Contate-me no email: nando_silverz@hotmail.com
-- 💻 Inscrição para cursos gratuitos na área Tech <a href="https://dio.me/sign-up?ref=ZLPADVQB4Q" taget="_blank">Clique aqui</a> 👈 
+- 💻 Inscrição para cursos gratuitos na área Tech <a href="https://dio.me/sign-up?ref=ZLPADVQB4Q" target="_blank">Clique aqui</a> 👈 
 
 <div align="center">
   <a href="https://github.com/codebuenozy">
