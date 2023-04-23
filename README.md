@@ -9,11 +9,13 @@
 <ul>
   <li>😷 Atualmente eu trabalho como Técnico de Enfermagem</li>
   <li>🧐 Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">UNICSUL</a></li>
-  <li>🤯 Estudando HTML5, CSS3, Javascript, NodeJS, ReactJS, e MySQL.</li>
+  <li>🤯 Estudando HTML5, CSS3, Javascript, NodeJS, NPM, ReactJS, e MySQL.</li>
+  <li>⚔  Meu perfil no <a href="https://www.codewars.com/users/codebuenozy" target="_blank">Codewars</a> 👈</li>
   <li>🖊  Meu perfil no <a href="https://codepen.io/codebuenozy" target="_blank">CodePen</a> 👈</li>
   <li>🦊 Meu perfil no <a href="https://gitlab.com/codebuenozy" target="_blank">GitLab</a> 👈</li> 
   <li>📫 Contate-me no email: nando_silverz@hotmail.com</li>
-  <li>💻 Inscrição para cursos gratuitos na área Tech <a href="https://dio.me/sign-up?ref=ZLPADVQB4Q" target="_blank">Clique aqui</a> 👈</li> 
+  <li>💻 Inscreva-se para cursos <strong>GRATUITOS</strong> na área Tech => <a href="https://dio.me/sign-up?ref=ZLPADVQB4Q" target="_blank">DIO</a> 👈</li>
+  <li>💻 Matricule-se para cursos na área Tech => <a href="https://cursos.alura.com.br/" target="_blank">Alura</a> 👈</li>
 </ul> 
   
 ---
@@ -26,6 +28,7 @@
   <img align="center" alt="Badge-CSS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Badge-JS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Badge-NodeJS" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Badge-Npm" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Badge-ReactJS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Badge-MySQL" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 </div>
