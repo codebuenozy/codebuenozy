@@ -9,7 +9,7 @@
 <ul>
   <li>😷 Atualmente eu trabalho como Técnico de Enfermagem</li>
   <li>🧐 Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">UNICSUL</a></li>
-  <li>🤯 Estudando HTML5, CSS3, Javascript, NodeJS, NPM, ReactJS, e MySQL.</li>
+  <li>🤯 Estudando HTML5, CSS3, JavaScript, TypeScript, NodeJS, NPM, ReactJS, e MySQL.</li>
   <li>⚔  Meu perfil no <a href="https://www.codewars.com/users/codebuenozy" target="_blank">Codewars</a> 👈</li>
   <li>🖊  Meu perfil no <a href="https://codepen.io/codebuenozy" target="_blank">CodePen</a> 👈</li>
   <li>🦊 Meu perfil no <a href="https://gitlab.com/codebuenozy" target="_blank">GitLab</a> 👈</li> 
@@ -27,6 +27,7 @@
   <img align="center" alt="Badge-HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Badge-CSS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Badge-JS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Badge-TS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Badge-NodeJS" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Badge-Npm" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Badge-ReactJS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
