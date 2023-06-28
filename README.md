@@ -16,6 +16,7 @@
   <li>📫 Contate-me no email: nando_silverz@hotmail.com</li>
   <li>💻 Inscreva-se para cursos <strong>GRATUITOS</strong> na área Tech => <a href="https://dio.me/sign-up?ref=ZLPADVQB4Q" target="_blank">DIO</a> 👈</li>
   <li>💻 Matricule-se para cursos na área Tech => <a href="https://cursos.alura.com.br/" target="_blank">Alura</a> 👈</li>
+  <li>🌐 Desconto na => <a href="https://hostinger.com.br?REFERRALCODE=1FERNANDO745" target="_blank">Hostinger</a> 👈</li>
 </ul> 
   
 ---
