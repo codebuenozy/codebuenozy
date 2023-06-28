@@ -21,27 +21,27 @@
 ---
   
 <div style="display: inline-block">
-  <img align="center" alt="Badge-Windows" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Badge-Linux" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Badge-Git" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Badge-Figma" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Badge-HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Badge-CSS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Badge-JS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Badge-TS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Badge-NodeJS" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Badge-Npm" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Badge-SASS" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Badge-ReactJS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Badge-Insomnia" height="30px" width="40px" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
-  <img align="center" alt="Badge-MySQL" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Badge-MongoDB" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Badge-Windows" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/windows.svg">
+  <img align="center" alt="Badge-Linux" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/linux.svg">
+  <img align="center" alt="Badge-Git" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/git.svg">
+  <img align="center" alt="Badge-Figma" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/figma.svg">
+  <img align="center" alt="Badge-HTML" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/html5.svg">
+  <img align="center" alt="Badge-CSS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/css3.svg">
+  <img align="center" alt="Badge-JS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/js.svg">
+  <img align="center" alt="Badge-TS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/ts.svg">
+  <img align="center" alt="Badge-NodeJS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/node.svg">
+  <img align="center" alt="Badge-Npm" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/npm.svg">
+  <img align="center" alt="Badge-SASS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/sass.svg">
+  <img align="center" alt="Badge-ReactJS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/react.svg">
+  <img align="center" alt="Badge-Insomnia" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/insomnia.svg">
+  <img align="center" alt="Badge-MySQL" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/mysql.svg">
+  <img align="center" alt="Badge-MongoDB" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/mongodb.svg">
 </div>
   
 ---
   
 <div>
-  <img align="right" alt="codebuenozy-bitmoji" height="150px" style="border-radius:50px;" src="./studying.png">
+  <img align="right" alt="codebuenozy-bitmoji" height="150px" style="border-radius:50px;" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/bitmoji/studying.png">
   <br>
   <a href="https://www.youtube.com/channel/UCw-kifCLkQUem2WwKfP6xaw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/codebuenozy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
