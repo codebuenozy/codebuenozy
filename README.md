@@ -33,6 +33,7 @@
   <img align="center" alt="Badge-Npm" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Badge-SASS" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Badge-ReactJS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Badge-Insomnia" height="30px" width="40px" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
   <img align="center" alt="Badge-MySQL" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Badge-MongoDB" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
