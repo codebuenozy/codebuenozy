@@ -8,8 +8,8 @@
 
 <ul>
   <li>😷 Atualmente eu trabalho como Técnico de Enfermagem</li>
-  <li>🧐 Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">UNICSUL</a></li>
-  <li>🤯 Estudando HTML5, CSS3, JavaScript, TypeScript, NodeJS, NPM, ReactJS, e MySQL.</li>
+  <li>🧐 Graduado em Análise e Desenvolvimento de Sistemas na <a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">UNICSUL</a></li>
+  <li>🤯 Estudando Banco de Dados.</li>
   <li>⚔  Meu perfil no <a href="https://www.codewars.com/users/codebuenozy" target="_blank">Codewars</a> 👈</li>
   <li>🖊  Meu perfil no <a href="https://codepen.io/codebuenozy" target="_blank">CodePen</a> 👈</li>
   <li>🦊 Meu perfil no <a href="https://gitlab.com/codebuenozy" target="_blank">GitLab</a> 👈</li> 
@@ -44,14 +44,6 @@
 <div>
   <img align="right" alt="codebuenozy-bitmoji" height="150px" style="border-radius:50px;" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/bitmoji/studying.png">
   <br>
-  <a href="https://www.youtube.com/channel/UCw-kifCLkQUem2WwKfP6xaw" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/youtube.png" target="_blank"></a>
-  <a href="https://www.twitch.tv/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitch.png" target="_blank"></a>
- <a href="https://discord.gg/yGHJ8grD5R" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/discord.png" target="_blank"></a>
-  <a href="https://twitter.com/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitter.png" target="_blank"></a>
- <a href="https://instagram.com/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/instagram.png" target="_blank"></a>
-  <a href="https://www.tiktok.com/@codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/7ceeda4617c358cd0b6bb8bd0de243c07f5ed798/badges/tiktok.png" target="_blank"></a>
-  <a href="https://www.facebook.com/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/facebook.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/7ceeda4617c358cd0b6bb8bd0de243c07f5ed798/badges/linkedin.png" target="_blank"></a>
   <a href ="mailto:nando.buenozy@gmail.com"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/gmail.png" target="_blank"></a>
   <a href ="https://api.whatsapp.com/send?phone=5511970967963" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/whatsapp.png" target="_blank"></a>
   <br><br>
