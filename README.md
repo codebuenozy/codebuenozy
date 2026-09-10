@@ -53,8 +53,8 @@
 
 <div align="center">
   <a href="https://github.com/codebybueno">
-    <img src="https://github-readme-stats.vercel.app/api?username=codebybueno&show_icons=true&theme=dracula" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebybueno&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=codebybueno&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebybueno&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
   </a>
   
   <br><br>
