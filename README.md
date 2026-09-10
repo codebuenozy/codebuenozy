@@ -52,12 +52,9 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/codebybueno">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=codebybueno&show_icons=true&theme=dracula" alt="GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebybueno&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
-  </a>
   
   <br><br>
    
   <img src="https://raw.githubusercontent.com/codebybueno/codebybueno/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  
 </div>
