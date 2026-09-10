@@ -53,13 +53,12 @@
 
 <div align="center">
   <a href="https://github.com/codebybueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebybueno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebybueno&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebybueno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebybueno&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
   
----
+  <br><br>
    
-![Snake animation](https://raw.githubusercontent.com/codebybueno/codebybueno/output/github-contribution-grid-snake.svg)
-
----
+  <img src="https://raw.githubusercontent.com/codebybueno/codebybueno/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
     
 </div>
