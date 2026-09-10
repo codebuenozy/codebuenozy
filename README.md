@@ -57,9 +57,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebybueno&layout=compact&langs_count=7&theme=dracula"/>
   
 ---
-    
-  ![Snake animation](https://github.com/codebybueno/codebybueno/blob/output/github-contribution-grid-snake.svg)
-  
+   
+![Snake animation](https://raw.githubusercontent.com/codebybueno/codebybueno/output/github-contribution-grid-snake.svg)
+
 ---
     
 </div>
